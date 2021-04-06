@@ -1,0 +1,18 @@
+﻿
+@model IEnumerable<Team>
+
+<a class="btn btn-block btn btn-outline-secondary"
+   asp-aciton="Index" asp-controller="Home" asp-route-team="">Home</a>
+<br />
+
+@foreach (var x in Model)
+{
+    <!-- this gives us a dynamically highlighted button-->
+    <a class="center btn btn block @(x.TeamName == ViewBag.SelectedTeam ? "btn-primary" : "btn-outline-secondary")"
+       asp-aciton="Index"
+       asp-controller="Home"
+       asp-route-team="@x.TeamId"
+       asp-route-teamid="@x.TeamName">
+    @x.TeamName</a>
+    <br />
+} 

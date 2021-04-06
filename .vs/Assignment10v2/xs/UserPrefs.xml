@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{531E8FE9-D77F-4A02-8B89-25BDC040530E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment10v2/Infrastructure/PaginationTagHelper.cs">
+    <Files>
+      <File FileName="Assignment10v2/Views/Home/Index.cshtml" Line="17" Column="63" />
+      <File FileName="Assignment10v2/Views/Shared/Components/BowlingTeam/Default.cshtml" Line="5" Column="59" />
+      <File FileName="Assignment10v2/Component/BowlingTeamViewComponent.cs" Line="21" Column="61" />
+      <File FileName="Assignment10v2/Startup.cs" Line="49" Column="1" />
+      <File FileName="Assignment10v2/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Assignment10v2/Models/View Models/BowlerListViewModel.cs" Line="1" Column="1" />
+      <File FileName="Assignment10v2/Models/View Models/PagingInfo.cs" Line="13" Column="116" />
+      <File FileName="Assignment10v2/Infrastructure/PaginationTagHelper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment10v2" expanded="True">
+            <Node name="Assignment10v2" expanded="True">
+              <Node name="Component" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="PaginationTagHelper.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="View Models" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="BowlingTeam" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment10v2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/masonmuir/Projects/Assignment10v2/Assignment10v2/Infrastructure/PaginationTagHelper.cs" relfile="Assignment10v2/Infrastructure/PaginationTagHelper.cs" line="2" column="1" />
+      <Breakpoint file="/Users/masonmuir/Projects/Assignment10v2/Assignment10v2/Infrastructure/PaginationTagHelper.cs" relfile="Assignment10v2/Infrastructure/PaginationTagHelper.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
